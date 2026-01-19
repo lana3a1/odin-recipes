@@ -5,3 +5,4 @@ Skills that i will show:
 - Navigating through directories and files
 - Adding headings
 - Adding relative links
+- Adding images with alternative text and width
