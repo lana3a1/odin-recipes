@@ -6,3 +6,5 @@ Skills that i will show:
 - Adding headings
 - Adding relative links
 - Adding images with alternative text and width
+- Working with paragraphs
+- Working with unordered- and ordered lists
