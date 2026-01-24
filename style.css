@@ -11,3 +11,15 @@
 }
 /*image above link*/
 
+.recipe img {
+    width: 200px;
+    height: auto;
+}
+
+
+.recipe a {
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
