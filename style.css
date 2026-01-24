@@ -2,9 +2,12 @@
     display: flex;
     gap: 30px;
 }
+/*makes items go next to each other*/
 
 .recipe {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+/*image above link*/
+
